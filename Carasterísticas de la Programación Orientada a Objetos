@@ -112,3 +112,5 @@ habitacion2.asignar_reserva(reserva2)
 # Mostrar reservas
 habitacion1.mostrar_reserva()
 habitacion2.mostrar_reserva()
+git commit -m "Implementa la clase Hotel, Habitacion y Reserva"
+git push origin main
